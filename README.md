@@ -1,6 +1,6 @@
 # HappyGromper
 
-I've been programming since I was around 11 years old, my parents got me Minecraft and then while playing Minecraft I wanted to learn how to make video games. And making mods, led me to software development, which has fueled my career of being interested in learning new things and being passionate about them. With the development of my skills, I have furthered my knowledge of languages and systems. Professionally using Visual Studios ASP.NET utilizing languages such as C#, SQL, JS, and HTML, while for my personal projects I use Node.js, PostgreSQL hosted on AWS. Giving me familiarity with development tools in both Windows and Linux. as well as a better understanding of Cloud Development.
+Starting my journey in software development at 11, I was inspired by videogames and especially Minecraft modding, this set me on a path of software development. Since then, my professional and personal pursuits have seen me master an array of programming languages and systems.
 
 
 <h3 align="left">Languages and Tools:</h3>
