@@ -1,4 +1,4 @@
-# HappyGromper
+# David Schiereck (HappyGromper)
 
 Starting my journey in software development at 11, I was inspired by videogames and especially Minecraft modding, this set me on a path of software development. Since then, my professional and personal pursuits have seen me master an array of programming languages and systems.
 
